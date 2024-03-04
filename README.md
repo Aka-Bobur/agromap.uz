@@ -1,2 +1,1 @@
-# agromap.uz
-# agromap.uz
+# agromapuz
